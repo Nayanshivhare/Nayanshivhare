@@ -3,7 +3,7 @@
 - 🌱 I'm currently employed at Go Cloud Careers as a Cloud Solution Architect.
 - 💞️ I'm looking for like-minded people to collaborate with me on projects involving Cloud Solutions. 
 - 📫 Reach out to me on: 
-  - Email: Nayanshivhare15@gmail.com
+  - Email: Nayanshi75@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ns977/) 
